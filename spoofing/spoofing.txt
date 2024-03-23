@@ -1,1 +1,5 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+
+Vulnerability: The session secret is potentially exposed.
+To prevent this vulnerability, the session secret should be stores securely and not passed via command-line arguments.
+It should be stored in environment variables or configuration file that are not accessible to unauthorized users.
