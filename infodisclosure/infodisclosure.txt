@@ -1,3 +1,8 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+Information disclosure occurs when a system unintentionally exposes sensitive data to unauthorized users.
+The vulnerability often arises due to improper configuration, weak access controls, or software flaws that
+allow attackers to bypass security measures and access the data.
 Which CIA property does tampering violate?
+Tampering violates the Integrity property of the CIA
 What additional security mechanisms can you incorporate?
+multi-factor authentication
