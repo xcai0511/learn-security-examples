@@ -1,2 +1,6 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+A Denial of Service (DoS) vulnerability occurs when an attacker overwhelms a system, server,
+or network with more requests than it can handle, causing it to slow down significantly or crash,
+thereby denying service to legitimate users.
 - What additional security mechanisms can you incorporate to prevent such attacks?
+rate limiting
